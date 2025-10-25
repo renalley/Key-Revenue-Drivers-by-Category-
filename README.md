@@ -108,10 +108,11 @@ Investigate causes for revenue dips in Q1 and Q4; align campaigns with seasonal 
 8.	Expand PayPal Promotions:
 Leverage PayPal’s popularity with cashback or reward-based incentives to encourage repeat purchases.
 
+## Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/views/KeyRevenueDriversDashboard/OnlineSalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link). This dashboard provides an overview of Axis & Co.’s 2024 revenue performance, allowing users to explore trends across product categories, payment methods, and sales channels. It highlights top-performing categories and products by revenue, monthly revenue changes, and key metrics such as sales, customers, and average order value to support data-driven business decisions.
 
 
-
-
+<img width="1400" height="1011" alt="Screenshot 2025-10-26 035645" src="https://github.com/user-attachments/assets/da6c0d79-2bad-4e42-88b3-d0ce91fad2ff" />
 
 
 
