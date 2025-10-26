@@ -29,20 +29,6 @@ Established in 2020, Axis & Co. sells a wide range of products — from accessor
 
 
 ## Insights Summary
-### Overall Performance
-
-  •	Sales: $10,039,229 (▲ 1.77%)
-  
-  •	Revenue: $9,150,010 (▲ 1.68%)
-  
-  •	Quantity: 197,395 units (▲ 2.19%)
-  
-  •	Customers: 7,577 (▲ 0.76%)
-  
-  •	AOV: $7,873 (▲ 0.78%)
-
-Sales and revenue both showed modest month-over-month growth, indicating consistent consumer demand and stable pricing.
-
 
 ## Top-Performing Categories by Revenue
 
