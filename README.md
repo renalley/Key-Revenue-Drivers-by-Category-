@@ -28,7 +28,7 @@ Established in 2020, Axis & Co. sells a wide range of products — from accessor
   •	Invoice Date – To measure month-over-month revenue differences.
 
 
-## Insights Summary
+# Insights Summary
 
 ## Top-Performing Categories by Revenue
 
