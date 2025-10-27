@@ -11,21 +11,8 @@ Established in 2020, Axis & Co. sells a wide range of products — from accessor
 
 ## Dataset Structure
 ### The dataset contained key performance fields such as:
-  •	Sales – Total gross sales before returns or discounts.
-  
-  •	Revenue – Net income after accounting for returns and discounts.
-  
-  •	Quantity Sold – Number of units purchased across all categories.
-  
-  •	Customer Count – Total number of unique buyers per period.
-  
-  •	Average Order Value (AOV) – Average spending per customer.
-  
-  •	Payment Method and Sales Channel – To assess preferred transaction behaviors.
-  
-  •	Category and Product Description – To evaluate product-level contribution.
-  
-  •	Invoice Date – To measure month-over-month revenue differences.
+ <img width="1052" height="805" alt="Screenshot 2025-10-28 010702" src="https://github.com/user-attachments/assets/c854118b-6a38-4b50-80f0-3faf77408f13" />
+
 
 
 # Insights Summary
