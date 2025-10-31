@@ -88,4 +88,4 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/v
 <img width="1400" height="1011" alt="Screenshot 2025-10-26 035645" src="https://github.com/user-attachments/assets/da6c0d79-2bad-4e42-88b3-d0ce91fad2ff" />
 
 
-
+The presentation created for the Finance team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1QEk0thMWQW0fYByj_sYO3XV_YDj5eZWA81amhD7Au0I/edit?usp=sharing).
