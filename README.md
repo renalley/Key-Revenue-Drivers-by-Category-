@@ -88,5 +88,11 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/v
 <img width="1400" height="1011" alt="Screenshot 2025-10-26 035645" src="https://github.com/user-attachments/assets/da6c0d79-2bad-4e42-88b3-d0ce91fad2ff" />
 
 
-## The presentation 
-The presentation created for the Finance team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1QEk0thMWQW0fYByj_sYO3XV_YDj5eZWA81amhD7Au0I/edit?usp=sharing).
+## The Presentation 
+The presentation created for the Finance team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/1QEk0thMWQW0fYByj_sYO3XV_YDj5eZWA81amhD7Au0I/edit?usp=sharing). You can check out a few snapshots from the presentation below.
+
+<img width="1179" height="551" alt="presentation screenshot (1)" src="https://github.com/user-attachments/assets/8e9ad647-7e27-46d4-8e51-e7050669122f" />
+
+<img width="1171" height="604" alt="presentation screenshot (2)" src="https://github.com/user-attachments/assets/c00925a3-9822-4e82-aa90-d58e3a7bb632" />
+
+<img width="1183" height="594" alt="presentation screenshot (3)" src="https://github.com/user-attachments/assets/784ea731-3def-45b8-8c78-aa1748dabb2d" />
